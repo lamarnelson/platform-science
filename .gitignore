@@ -1,0 +1,15 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore coverage directory
+coverage/
+
+# Ignore dist directory
+dist/
+
+# Ignore any files that may contain sensitive information
+.env
+
+# Ignore IDE Configuration
+.idea/
+.DS_Store
