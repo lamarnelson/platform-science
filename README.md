@@ -13,9 +13,12 @@ This project implements a Shipment Matching Routing System that assigns shipment
 To use the Application, follow these steps:
 
 - Place your data files in the 'data' folder.
-- Execute Script:
+- Execute Commands:
+
 
 ```bash
+npm run build
+
 npm start <shipment-file.txt> <driver-file.txt>
 ```
 
